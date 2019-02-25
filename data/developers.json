@@ -1,0 +1,478 @@
+[
+  {
+    "_id": 99,
+    "email": "dcase@nwmissouri.edu",
+    "given": "Denise",
+    "family": "Case",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
+  },
+  {
+    "_id": 91,
+    "email": "dcase@nwmissouri.edu",
+    "given": "Lohita",
+    "family": "Case",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
+  },
+  {
+    "_id": 92,
+    "email": "@nwmissouri.edu",
+    "given": "Rahul",
+    "family": "Case",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
+  },
+  {
+    "_id": 93,
+    "email": "dcase@nwmissouri.edu",
+    "given": "Teja",
+    "family": "Case",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
+  },
+  {
+    "_id": 101,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 102,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 103,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 104,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 105,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 106,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 107,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 108,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 109,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 110,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 111,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 112,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 113,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 114,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 115,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 116,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 117,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 118,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 119,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 120,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 121,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 122,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 123,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 124,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 125,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 126,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 127,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 128,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 129,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 130,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 131,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 132,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 133,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 134,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 135,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 136,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 201,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 202,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 203,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 204,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 205,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 206,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 207,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 208,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 209,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 210,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 211,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 212,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 213,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 214,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 215,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 216,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 217,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 218,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 219,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 220,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 221,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 222,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 223,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 224,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 225,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 226,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 227,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 228,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 229,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 230,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 231,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 232,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 233,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 234,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 235,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 236,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 301,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 302,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 303,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 304,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 305,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 306,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 307,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 308,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 309,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 310,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 311,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 312,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 313,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 314,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 315,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 316,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 317,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 318,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 319,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 320,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 321,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 322,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 323,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 324,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 325,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 326,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 327,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 328,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 329,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 330,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 331,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 332,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 333,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 334,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 335,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 336,
+    "email": "@nwmissouri.edu"
+  }
+]
