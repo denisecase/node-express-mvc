@@ -1,0 +1,13 @@
+# list all files and folders that should NOT be committed to the repo
+# ending in a / will find all folders with that name in the root or subfolders
+# files that can be re-generated or are specific to a developer should NOT be committed
+
+node_modules/
+
+# Ignore all .vscode files
+.history/*
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json

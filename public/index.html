@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang='en'>
+
+<head>
+  <title>Chat</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.3/css/mdb.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- https://mdbootstrap.com/docs/jquery/navigation/navbar/ -->
+  <nav class="navbar navbar-expand-lg navbar-dark primary-color">
+    <a class="navbar-brand" href="#">WebApps</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
+      aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="basicExampleNav">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home
+            <span class="sr-only">(current)</span>
+          </a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">Developers</a>
+          <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="#">Section 01</a>
+            <a class="dropdown-item" href="#">Section 02</a>
+            <a class="dropdown-item" href="#">Section 03</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="container-fluid">
+    <div class=row>
+      <div class="col col-md-12">
+        <br />
+        <h1>Web App Developers - Spring 2019</h1>
+        <br />
+        <hr>
+        <h3>During development, test the api here.</h3>
+        <br />
+        <br />
+        <br />
+        <h4>GET Developer JSON by URL</h4>
+        <ol>
+          <li>
+            <a href="http://localhost:3002/dev/findall">http://localhost:3002/dev/findall</a>
+          </li>
+          <li>
+            <a href="http://localhost:3002/dev/findone/99">http://localhost:3002/dev/findone/99</a>
+          </li>
+          <li>
+            <a href="http://localhost:3002/dev/findone/91">http://localhost:3002/dev/findone/91</a>
+          </li>
+          <li>
+            <a href="http://localhost:3002/dev/findone/92">http://localhost:3002/dev/findone/92</a>
+          </li>
+          <li>
+            <a href="http://localhost:3002/dev/findone/93">http://localhost:3002/dev/findone/93</a>
+          </li>
+        </ol>
+      </div>
+    </div>
+  </main>
+  <hr>
+
+  <footer class="container">
+    <p>&copy; 2019 Web Apps Spring 2019</p>
+    <p class="text-muted"><a href="https://bitbucket.org/professorcase/node-express">Source Repository</a></p>
+  </footer>
+
+  <!-- JQuery -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.3/js/mdb.min.js"></script>
+</body>
+
+</html>
+<!-- Reference: http://javabeginnerstutorial.com/javascript-2/create-simple-chat-application-using-node-js-express-js-socket-io/ -->
