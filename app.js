@@ -12,7 +12,7 @@ const app = express()  // create an Express web app
 const server = http.createServer(app)  // pass in the Express app to our http server
 const path = require('path')
 
-const hostname = '127.0.0.1';
+const hostname = '0.0.0.0'    // allows access from remote computers
 const port = 3004;
 
 // initialize data ............................................
