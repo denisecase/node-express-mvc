@@ -329,7 +329,14 @@
   },
   {
     "_id": 236,
-    "email": "@nwmissouri.edu"
+    "email": "S533901@nwmissouri.edu",
+    "given": "Rahul",
+    "family": "Dayam",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500035,
+    "country": "INDIA",
+    "URL": "https://github.com/rahulreddy062"
   },
   {
     "_id": 301,
