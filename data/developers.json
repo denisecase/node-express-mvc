@@ -277,7 +277,14 @@
   },
   {
     "_id": 223,
-    "email": "@nwmissouri.edu"
+    "email": "s524409@nwmissouri.edu",
+    "given": "Randall",
+    "family": "Porter",
+    "city": "Bowling Green",
+    "state": "MO",
+    "zip": 63334,
+    "country": "USA",
+    "URL": "https://github.com/RandallZPorter"
   },
   {
     "_id": 224,
