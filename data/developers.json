@@ -261,8 +261,16 @@
   },
   {
     "_id": 219,
-    "email": "@nwmissouri.edu"
+    "email": "s522652@nwmissouri.edu",
+    "given": "Jarvis",
+    "family": "Wang",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/Jarvis-wang"
   },
+  
   {
     "_id": 220,
     "email": "@nwmissouri.edu"
