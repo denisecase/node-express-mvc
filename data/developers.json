@@ -285,7 +285,14 @@
   },
   {
     "_id": 225,
-    "email": "@nwmissouri.edu"
+    "email": "S529115@nwmissouri.edu",
+    "given": "Alex",
+    "family": "Gittemeier",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://alexg.xyz/"
   },
   {
     "_id": 226,
