@@ -189,7 +189,14 @@
   },
   {
     "_id": 201,
-    "email": "@nwmissouri.edu"
+    "email": "s534741@nwmissouri.edu",
+    "given": "Sushma",
+    "family": "Aleti",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
   },
   {
     "_id": 202,
