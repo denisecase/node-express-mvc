@@ -67,3 +67,5 @@ Start app with nodemon: `nodemon app.js`.
 - [node-express-app](https://github.com/denisecase/node-express-app)
 - [node-express-chat](https://github.com/denisecase/node-express-chat)
 - [node-express-mvc](https://github.com/denisecase/node-express-mvc)
+
+Dr.Denise Case
