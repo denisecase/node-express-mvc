@@ -253,7 +253,13 @@
   },
   {
     "_id": 217,
-    "email": "s534690@nwmissouri.edu"
+    "email": "s534690@nwmissouri.edu",
+    "given":"Nikitha",
+    "family":"Lakmarapu",
+    "city":"Maryville",
+    "state":"MO",
+    "country":"USA",
+    "zip":64468
   },
   {
     "_id": 218,
