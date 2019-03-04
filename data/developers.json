@@ -189,13 +189,13 @@
   },
   {
     "_id": 201,
-    "email": "s534688@nwmissouri.edu",
     "given": "Harsha Vardhan Reddy",
     "family": "Nallavolu",
     "city": "Maryville",
     "state": "Missouri",
     "zip": 64468,
     "country": "USA",
+    "email": "s534688@nwmissouri.edu",
     "URL": "https://github.com/harsha4824"
   },
   
