@@ -345,7 +345,14 @@
   },
   {
     "_id": 304,
-    "email": "s534642@nwmissouri.edu"
+    "email": "s534642@nwmissouri.edu",
+    "given": "Pratyusha",
+    "family": "pusapati",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
   },
   {
     "_id": 305,
