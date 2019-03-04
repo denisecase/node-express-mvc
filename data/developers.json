@@ -114,6 +114,13 @@
   {
     "_id": 114,
     "email": "@nwmissouri.edu"
+    "given": "Kenny",
+    "family": "Grannas",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/Ace0320"
   },
   {
     "_id": 115,
