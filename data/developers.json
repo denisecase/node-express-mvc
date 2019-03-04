@@ -470,7 +470,14 @@
   },
   {
     "_id": 326,
-    "email": "@nwmissouri.edu"
+    "email": "S534569@nwmissouri.edu",
+    "given": "Samanth",
+    "family": "Gourineni",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "zip": 503187,
+    "country": "INDIA",
+    "URL": "https://github.com/Samanthgourineni"
   },
   {
     "_id": 327,
