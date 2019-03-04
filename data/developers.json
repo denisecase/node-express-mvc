@@ -394,7 +394,14 @@
   },
   {
     "_id": 307,
-    "email": "@nwmissouri.edu"
+    "email": S534571"@nwmissouri.edu",
+	"given": "Prashanth",
+    "family": "Nachannagari",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/prashanthr036"
   },
   {
     "_id": 308,
