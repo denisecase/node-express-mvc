@@ -156,7 +156,14 @@
   },
   {
     "_id": 123,
-    "email": "@nwmissouri.edu"
+    "email": "s528926@nwmissouri.edu",
+    "given": "Eli",
+    "family": "Ross",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/eliross84"
   },
   {
     "_id": 124,
