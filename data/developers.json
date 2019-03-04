@@ -417,9 +417,9 @@
   },
   {
     "_id": 322,
-    "email": "S534736@nwmissouri.edu"
-    "given":"Sai Kiran"
-    "family":"Doddapaneni"
+    "email": "@nwmissouri.edu"
+   
+    
   },
   {
     "_id": 323,
@@ -459,7 +459,14 @@
   },
   {
     "_id": 332,
-    "email": "@nwmissouri.edu"
+    "email": "S534736@nwmissouri.edu"
+    "given":"Sai Kiran"
+    "family":"Doddapaneni"
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
   },
   {
     "_id": 333,
