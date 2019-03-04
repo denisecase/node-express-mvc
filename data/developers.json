@@ -447,7 +447,14 @@
   },
   {
     "_id": 322,
-    "email": "@nwmissouri.edu"
+    "email": "S534732@nwmissouri.edu",
+    "given": "Chaitra",
+    "family": "Vemula",
+    "city": "Khammam",
+    "state": "Telangana",
+    "zip": 507001,
+    "country": "INDIA",
+    "URL": "https://github.com/Chaitra543"
   },
   {
     "_id": 323,
