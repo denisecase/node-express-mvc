@@ -355,7 +355,14 @@
   },
   {
     "_id": 301,
-    "email": "@nwmissouri.edu"
+    "email": "s528218@nwmissouri.edu",
+    "given": "Valentine",
+    "family": "Osakwe",
+    "city": "Hawthorne",
+    "state": "CA",
+    "zip": 90250,
+    "country": "US",
+    "URL": "https://github.com/Valoderah"
   },
   {
     "_id": 302,
