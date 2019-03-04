@@ -136,7 +136,14 @@
   },
   {
     "_id": 118,
-    "email": "@nwmissouri.edu"
+    "email": "s534665@nwmissouri.edu",
+    "given": "Rishika",
+    "family": "Gaddam",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500049,
+    "country": "INDIA",
+    "URL": "https://github.com/rishikareddygaddam"
   },
   {
     "_id": 119,
