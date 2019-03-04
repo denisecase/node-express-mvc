@@ -113,7 +113,14 @@
   },
   {
     "_id": 116,
-    "email": "@nwmissouri.edu"
+    "email": "S534881@nwmissouri.edu",
+    "given": "Sharadruthi",
+    "family": "Beerkuri",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/Druthi7"
   },
   {
     "_id": 117,
