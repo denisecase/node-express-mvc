@@ -354,7 +354,14 @@
   },
   {
     "_id": 224,
-    "email": "@nwmissouri.edu"
+    "email": "S526635@nwmissouri.edu",
+    "given": "Sammy",
+    "family": "Fields",
+    "city": "Kearney",
+    "state": "MO",
+    "zip": 64060,
+    "country": "USA",
+    "URL": "https://www.linkedin.com/in/sammyfields22/"
   },
   {
     "_id": 225,
