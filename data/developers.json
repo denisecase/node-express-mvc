@@ -371,7 +371,15 @@
   },
   {
     "_id": 305,
-    "email": "@nwmissouri.edu"
+    "email": "s534574@nwmissouri.edu",
+    "given": "Lavanya Reddy ",
+    "family": "Uppula",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500074,
+    "country": "INDIA",
+    "URL": "https://github.com/reddylavanya"
+
   },
   {
     "_id": 306,
