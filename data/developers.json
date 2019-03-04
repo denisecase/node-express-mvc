@@ -411,14 +411,6 @@
   },
   {
     "_id": 313,
-    "email": "@nwmissouri.edu"
-  },
-  {
-    "_id": 314,
-    "email": "@nwmissouri.edu"
-  },
-  {
-    "_id": 313,
     "email": "S534804@nwmissouri.edu",
     "given": "Rudra Teja",
     "family": "Potturi",
@@ -427,6 +419,16 @@
     "zip": 520001,
     "country": "INDIA",
     "URL": "https://github.com/RudraPotturi"
+   
+  },
+  {
+    "_id": 314,
+    "email": "@nwmissouri.edu"
+  },
+  {
+    "_id": 315,
+    "email": "@nwmissouri.edu"
+    
   },
   {
     "_id": 316,
