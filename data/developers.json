@@ -45,11 +45,19 @@
   },
   {
     "_id": 101,
-    "email": "@nwmissouri.edu"
+    "email": "@nwmissouri.edu",
+
   },
   {
     "_id": 102,
-    "email": "@nwmissouri.edu"
+    "email": "@nwmissouri.edu",
+    "given": "Lohitha",
+    "family": "Bhethalam",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500070,
+    "country": "INDIA",
+    "URL": "https://github.com/lohithabhethalam"
   },
   {
     "_id": 103,
