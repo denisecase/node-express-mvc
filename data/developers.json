@@ -426,7 +426,15 @@
   },
   {
     "_id": 315,
-    "email": "@nwmissouri.edu"
+    "email": "s534844@nwmissouri.edu",
+    "given":"Rajesh",
+    "family":"Kammari",
+    "city":"Maryville",
+    "state":"MO",
+    "zip":64468,
+    "country":"USA",
+    "URL":"https://www.linkedin.com/in/rajesh-kammari-03b135a2/"
+
   },
   {
     "_id": 316,
