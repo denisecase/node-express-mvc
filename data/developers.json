@@ -363,7 +363,15 @@
   },
   {
     "_id": 303,
-    "email": "@nwmissouri.edu"
+    "email": "s534595@nwmissouri.edu",
+    "given": "Sanjana",
+    "family": "Baswapuram",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500067,
+    "country": "INDIA",
+    "URL": "https://github.com/sanjanabaswa"
+  
   },
   {
     "_id": 304,
