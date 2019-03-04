@@ -482,7 +482,14 @@
   },
   {
     "_id": 329,
-    "email": "@nwmissouri.edu"
+    "email": "S534572@nwmissouri.edu",
+    "given": "Anvesh",
+    "family": "Rokanlawar",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500090,
+    "country": "INDIA",
+    "URL": "https://github.com/anveshrokanlawar"
   },
   {
     "_id": 330,
