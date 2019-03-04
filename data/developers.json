@@ -360,7 +360,15 @@
   },
   {
     "_id": 306,
-    "email": "@nwmissouri.edu"
+   
+    "email": "s534685@nwmissouri.edu",
+    "given": "Vijaya Raja Mayuri",
+    "family": "Akula",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/Vijayarajamayuri"
   },
   {
     "_id": 307,
