@@ -382,7 +382,14 @@
   },
   {
     "_id": 304,
-    "email": "@nwmissouri.edu"
+    "email": "s534642@nwmissouri.edu",
+    "given": "Pratyusha",
+    "family": "pusapati",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/ppusap"
   },
   {
     "_id": 305,
