@@ -415,7 +415,14 @@
   },
   {
     "_id": 314,
-    "email": "@nwmissouri.edu"
+    "email": "S534737@nwmissouri.edu",
+    "given": "Sai Nikhil ",
+    "family": "Pippara",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/SaiNikhilPippara"
   },
   {
     "_id": 315,
