@@ -53,7 +53,15 @@
   },
   {
     "_id": 103,
-    "email": "@nwmissouri.edu"
+    "email": "S534662@nwmissouri.edu",
+    "given": "BhagyaSree",
+    "family": "Chanda",
+    "city": "Warangal",
+    "state": "Telangana",
+    "zip": 506009,
+    "country": "INDIA",
+    "URL": "https://github.com/bhagyasree2895"
+
   },
   {
     "_id": 104,
