@@ -176,7 +176,14 @@
   },
   {
     "_id": 120,
-    "email": "@nwmissouri.edu"
+    "email": "s534627@nwmissouri.edu",
+    "given": "Vijay Kumar",
+    "family": "Karanam",
+    "city": "Tirupati",
+    "state": "AP",
+    "zip": 517501,
+    "country": "INDIA",
+    "URL": "https://github.com/KaranamVijayKumar"
   },
   {
     "_id": 121,
