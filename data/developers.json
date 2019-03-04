@@ -61,7 +61,14 @@
   },
   {
     "_id": 105,
-    "email": "@nwmissouri.edu"
+    "email": "@nwmissouri.edu",
+    "given": "Venkatesh",
+    "family": "Kunduru",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/venkateshkunduru123"
   },
   {
     "_id": 106,
