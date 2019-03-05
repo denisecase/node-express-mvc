@@ -377,7 +377,14 @@
   },
   {
     "_id": 312,
-    "email": "@nwmissouri.edu"
+    "email": "S534640@nwmissouri.edu",
+    "given": "Nishanth Reddy",
+    "family": "Devi Reddy",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/Nishanthreddy1997"
   },
   {
     "_id": 313,
