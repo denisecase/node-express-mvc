@@ -15,45 +15,72 @@
     "email": "s533975@nwmissouri.edu",
     "given": "Lohitha",
     "family": "Bhethalam",
-    "city": "Maryville",
-    "state": "MO",
-    "zip": 64468,
-    "country": "USA",
-    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500070,
+    "country": "INDIA",
+    "URL": "https://github.com/lohithabhethalam"
   },
   {
     "_id": 92,
-    "email": "@nwmissouri.edu",
+    "email": "S533901@nwmissouri.edu",
     "given": "Rahul",
-    "family": "Case",
-    "city": "Maryville",
-    "state": "MO",
-    "zip": 64468,
-    "country": "USA",
-    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
+    "family": "Dayam",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500035,
+    "country": "INDIA",
+    "URL": "https://github.com/rahulreddy062"
   },
   {
     "_id": 93,
-    "email": "dcase@nwmissouri.edu",
-    "given": "Teja",
-    "family": "Case",
-    "city": "Maryville",
-    "state": "MO",
-    "zip": 64468,
-    "country": "USA",
-    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
+    "email": "s533708@nwmissouri.edu",
+    "given": "Sai Krishna Teja",
+    "family": "Kancharla",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "zip": 520003,
+    "country": "INDIA",
+    "URL": "https://www.linkedin.com/in/tejavictorystark/"
+  },
+   {
+    "_id": 110,
+    "email": "s534803@nwmissouri.edu",
+    "given": "Jaswanthi",
+    "family": "Nannuru",
+    "city": "Nalgonda",
+    "state": "Telangana",
+    "zip": 508001,
+    "country": "INDIA",
+    "URL": "https://github.com/JaswanthiNannuru"
   },
   {
     "_id": 101,
-    "email": "@nwmissouri.edu"
+    "email": "@nwmissouri.edu",
+
   },
   {
     "_id": 102,
-    "email": "@nwmissouri.edu"
+    "email": "@nwmissouri.edu",
+    "given": "Lohitha",
+    "family": "Bhethalam",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500070,
+    "country": "INDIA",
+    "URL": "https://github.com/lohithabhethalam"
   },
   {
     "_id": 103,
-    "email": "@nwmissouri.edu"
+    "email": "S534662@nwmissouri.edu",
+    "given": "BhagyaSree",
+    "family": "Chanda",
+    "city": "Warangal",
+    "state": "Telangana",
+    "zip": 506009,
+    "country": "INDIA",
+    "URL": "https://github.com/bhagyasree2895"
+
   },
   {
     "_id": 104,
@@ -61,7 +88,14 @@
   },
   {
     "_id": 105,
-    "email": "@nwmissouri.edu"
+    "email": "S534845@nwmissouri.edu",
+    "given": "Venkatesh",
+    "family": "Kunduru",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/venkateshkunduru123"
   },
   {
     "_id": 106,
@@ -81,7 +115,7 @@
   },
   {
     "_id": 110,
-    "email": "@nwmissouri.edu"
+    "email": "s534803@nwmissouri.edu"
   },
   {
     "_id": 111,
@@ -98,6 +132,13 @@
   {
     "_id": 114,
     "email": "@nwmissouri.edu"
+    "given": "Kenny",
+    "family": "Grannas",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/Ace0320"
   },
   {
     "_id": 115,
@@ -105,7 +146,14 @@
   },
   {
     "_id": 116,
-    "email": "@nwmissouri.edu"
+    "email": "S534881@nwmissouri.edu",
+    "given": "Sharadruthi",
+    "family": "Beerkuri",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/Druthi7"
   },
   {
     "_id": 117,
@@ -113,7 +161,14 @@
   },
   {
     "_id": 118,
-    "email": "@nwmissouri.edu"
+    "email": "s534665@nwmissouri.edu",
+    "given": "Rishika",
+    "family": "Gaddam",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500049,
+    "country": "INDIA",
+    "URL": "https://github.com/rishikareddygaddam"
   },
   {
     "_id": 119,
@@ -121,7 +176,14 @@
   },
   {
     "_id": 120,
-    "email": "@nwmissouri.edu"
+    "email": "s534627@nwmissouri.edu",
+    "given": "Vijay Kumar",
+    "family": "Karanam",
+    "city": "Tirupati",
+    "state": "AP",
+    "zip": 517501,
+    "country": "INDIA",
+    "URL": "https://github.com/KaranamVijayKumar"
   },
   {
     "_id": 121,
@@ -133,7 +195,14 @@
   },
   {
     "_id": 123,
-    "email": "@nwmissouri.edu"
+    "email": "s528926@nwmissouri.edu",
+    "given": "Eli",
+    "family": "Ross",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/eliross84"
   },
   {
     "_id": 124,
@@ -189,7 +258,14 @@
   },
   {
     "_id": 201,
-    "email": "@nwmissouri.edu"
+    "email": "s534741@nwmissouri.edu",
+    "given": "Sushma",
+    "family": "Aleti",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
   },
   {
     "_id": 202,
@@ -201,11 +277,25 @@
   },
   {
     "_id": 204,
-    "email": "@nwmissouri.edu"
+      "given": "Pradeepkumar",
+    "family": "Theegala",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500072,
+    "country": "India",
+    "URL": "https://github.com/pradeepkumartheegala",
+    "email": "s534742@nwmissouri.edu"
   },
   {
     "_id": 205,
-    "email": "@nwmissouri.edu"
+    "email": "S534692@nwmissouri.edu",
+    "given": "Raghavendar Reddy",
+    "family": "Maddelavedu",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500005,
+    "country": "INDIA",
+    "URL": "https://github.com/MRaghavendar"
   },
   {
     "_id": 206,
@@ -225,11 +315,26 @@
   },
   {
     "_id": 210,
-    "email": "@nwmissouri.edu"
+    "_id": 99,
+    "email": "S534867@nwmissouri.edu",
+    "given": "Bhavani",
+    "family": "Pathuri",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "zip": 64468,
+    "country": "India",
+    "URL": "https://github.com/pathuribhavani"
   },
   {
     "_id": 211,
-    "email": "@nwmissouri.edu"
+    "email": "s534741@nwmissouri.edu",
+    "given": "Sushma Rani Reddy",
+    "family": "Aleti",
+    "city": "Nirmal",
+    "state": "Telangana",
+    "zip": 504106,
+    "country": "INDIA",
+    "URL": "https://github.com/Sushma4548"
   },
   {
     "_id": 212,
@@ -253,7 +358,13 @@
   },
   {
     "_id": 217,
-    "email": "@nwmissouri.edu"
+    "email": "s534690@nwmissouri.edu",
+    "given":"Nikitha",
+    "family":"Lakmarapu",
+    "city":"Maryville",
+    "state":"MO",
+    "country":"USA",
+    "zip":64468
   },
   {
     "_id": 218,
@@ -261,8 +372,16 @@
   },
   {
     "_id": 219,
-    "email": "@nwmissouri.edu"
+    "email": "s522652@nwmissouri.edu",
+    "given": "Jarvis",
+    "family": "Wang",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/Jarvis-wang"
   },
+  
   {
     "_id": 220,
     "email": "@nwmissouri.edu"
@@ -277,15 +396,36 @@
   },
   {
     "_id": 223,
-    "email": "@nwmissouri.edu"
+    "email": "s524409@nwmissouri.edu",
+    "given": "Randall",
+    "family": "Porter",
+    "city": "Bowling Green",
+    "state": "MO",
+    "zip": 63334,
+    "country": "USA",
+    "URL": "https://github.com/RandallZPorter"
   },
   {
     "_id": 224,
-    "email": "@nwmissouri.edu"
+    "email": "S526635@nwmissouri.edu",
+    "given": "Sammy",
+    "family": "Fields",
+    "city": "Kearney",
+    "state": "MO",
+    "zip": 64060,
+    "country": "USA",
+    "URL": "https://www.linkedin.com/in/sammyfields22/"
   },
   {
     "_id": 225,
-    "email": "@nwmissouri.edu"
+    "email": "S529115@nwmissouri.edu",
+    "given": "Alex",
+    "family": "Gittemeier",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://alexg.xyz/"
   },
   {
     "_id": 226,
@@ -333,7 +473,14 @@
   },
   {
     "_id": 301,
-    "email": "@nwmissouri.edu"
+    "email": "s528218@nwmissouri.edu",
+    "given": "Valentine",
+    "family": "Osakwe",
+    "city": "Hawthorne",
+    "state": "CA",
+    "zip": 90250,
+    "country": "US",
+    "URL": "https://github.com/Valoderah"
   },
   {
     "_id": 302,
@@ -341,23 +488,61 @@
   },
   {
     "_id": 303,
-    "email": "@nwmissouri.edu"
+    "email": "s534595@nwmissouri.edu",
+    "given": "Sanjana",
+    "family": "Baswapuram",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500067,
+    "country": "INDIA",
+    "URL": "https://github.com/sanjanabaswa"
+  
   },
   {
     "_id": 304,
-    "email": "@nwmissouri.edu"
+    "email": "s534642@nwmissouri.edu",
+    "given": "Pratyusha",
+    "family": "pusapati",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/ppusap"
   },
   {
     "_id": 305,
-    "email": "@nwmissouri.edu"
+    "email": "s534574@nwmissouri.edu",
+    "given": "Lavanya Reddy ",
+    "family": " Uppula ",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500074,
+    "country": "INDIA",
+    "URL": "https://github.com/reddylavanya"
+
   },
   {
     "_id": 306,
-    "email": "@nwmissouri.edu"
+   
+    "email": "s534685@nwmissouri.edu",
+    "given": "Vijaya Raja Mayuri",
+    "family": "Akula",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/Vijayarajamayuri"
   },
   {
     "_id": 307,
-    "email": "@nwmissouri.edu"
+    "email": S534571"@nwmissouri.edu",
+	"given": "Prashanth",
+    "family": "Nachannagari",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/prashanthr036"
   },
   {
     "_id": 308,
@@ -381,15 +566,37 @@
   },
   {
     "_id": 313,
-    "email": "@nwmissouri.edu"
+    "email": "S534804@nwmissouri.edu",
+    "given": "Rudra Teja",
+    "family": "Potturi",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "zip": 520001,
+    "country": "INDIA",
+    "URL": "https://github.com/RudraPotturi"
   },
   {
     "_id": 314,
-    "email": "@nwmissouri.edu"
+    "email": "S534737@nwmissouri.edu",
+    "given": "Sai Nikhil ",
+    "family": "Pippara",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/SaiNikhilPippara"
   },
   {
     "_id": 315,
-    "email": "@nwmissouri.edu"
+    "email": "s534844@nwmissouri.edu",
+    "given":"Rajesh",
+    "family":"Kammari",
+    "city":"Maryville",
+    "state":"MO",
+    "zip":64468,
+    "country":"USA",
+    "URL":"https://www.linkedin.com/in/rajesh-kammari-03b135a2/"
+
   },
   {
     "_id": 316,
@@ -401,11 +608,18 @@
   },
   {
     "_id": 318,
-    "email": "@nwmissouri.edu"
+    "email": "s534887@nwmissouri.edu"
   },
   {
     "_id": 319,
-    "email": "@nwmissouri.edu"
+    "email": "s534734@nwmissouri.edu",
+    "given": "Ravi Kumar",
+    "family": "Atluri",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "zip": 521180,
+    "country": "INDIA",
+    "URL": "https://github.com/ravikumaratluri"
   },
   {
     "_id": 320,
@@ -417,9 +631,16 @@
   },
   {
     "_id": 322,
-    "email": "@nwmissouri.edu"
-   
-    
+    "email": "@nwmissouri.edu",
+    "email": "S534732@nwmissouri.edu",
+    "given": "Chaitra",
+    "family": "Vemula",
+    "city": "Khammam",
+    "state": "Telangana",
+    "zip": 507001,
+    "country": "INDIA",
+    "URL": "https://github.com/Chaitra543"
+
   },
   {
     "_id": 323,
@@ -428,6 +649,14 @@
   {
     "_id": 324,
     "email": "@nwmissouri.edu"
+    "given": "Chitralekha",
+    "family": "Chikku",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/chitralekhach"
+
   },
   {
     "_id": 325,
