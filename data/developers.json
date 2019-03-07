@@ -490,7 +490,14 @@
   },
   {
     "_id": 302,
-    "email": "@nwmissouri.edu"
+    "email": "s534883@nwmissouri.edu"
+    "given": "Sai Sri",
+    "family": "Dachepally",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 508201,
+    "country": "INDIA",
+    "URL": "https://github.com/dachepally"
   },
   {
     "_id": 303,
