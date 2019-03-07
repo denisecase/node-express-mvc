@@ -730,7 +730,14 @@
   },
   {
     "_id": 331,
-    "email": "@nwmissouri.edu"
+     "email": "s534638@nwmissouri.edu",
+    "given": "Millindar Reddy",
+    "family": "Maligireddy",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/milindar"
   },
   {
     "_id": 332,
