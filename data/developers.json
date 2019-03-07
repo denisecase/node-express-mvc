@@ -172,7 +172,14 @@
   },
   {
     "_id": 119,
-    "email": "@nwmissouri.edu"
+    "email": "s534735@nwmissouri.edu",
+    "given": "Rohit",
+    "family": "Saidugari",
+    "city": "Kamareddy",
+    "state": "Telangana",
+    "zip": 503125,
+    "country": "INDIA",
+    "URL": "https://github.com/Rohith-saidugari/"
   },
   {
     "_id": 120,
