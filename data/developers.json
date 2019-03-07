@@ -194,7 +194,14 @@
   },
   {
     "_id": 121,
-    "email": "@nwmissouri.edu"
+    "email": "s534597@nwmissouri.edu",
+    "given": "Rahul",
+    "family": "Mallampati",
+    "city": "Aswapuram",
+    "state": "Telangana",
+    "zip": 507116,
+    "country": "INDIA",
+    "URL": "https://github.com/Rahulmallampati825"
   },
   {
     "_id": 122,
