@@ -445,7 +445,14 @@
   },
   {
     "_id": 230,
-    "email": "@nwmissouri.edu"
+    "email": "s526668@nwmissouri.edu",
+    "given": "Robert",
+    "family": "Becthold",
+    "city": "Ottumwa",
+    "state": "IA",
+    "zip": 52501,
+    "country": "USA",
+    "URL": "https://github.com/AlexBecthold"
   },
   {
     "_id": 231,
