@@ -525,7 +525,7 @@
   },
   {
     "_id": 302,
-    "email": "s534883@nwmissouri.edu"
+    "email": "s534883@nwmissouri.edu",
     "given": "Sai Sri",
     "family": "Dachepally",
     "city": "Hyderabad",
@@ -686,7 +686,7 @@
   },
   {
     "_id": 322,
-    "email": "@nwmissouri.edu",
+    
     "email": "S534732@nwmissouri.edu",
     "given": "Chaitra",
     "family": "Vemula",

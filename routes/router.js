@@ -16,6 +16,11 @@ const router = express.Router()
 // Manage top-level request first
 router.get('/', (req, res, next) => {
   console.log('Request to /')
+  res.sendFile(path.join(__dirname, '../public/newPage.html'))
+})
+
+router.get('/index', (req, res, next) => {
+  console.log('Request to /')
   res.sendFile(path.join(__dirname, '../public/index.html'))
 })
 
