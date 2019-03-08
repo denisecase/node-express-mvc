@@ -435,7 +435,14 @@
   },
   {
     "_id": 319,
-    "email": "@nwmissouri.edu"
+    "email": "s534848@nwmissouri.edu",
+    "given": "Varun Goud",
+    "family": "Pulipalpula",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/"
   },
   {
     "_id": 320,
