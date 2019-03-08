@@ -109,7 +109,14 @@
   },
   {
     "_id": 117,
-    "email": "@nwmissouri.edu"
+    "email": "S534885@nwmissouri.edu",
+    "given": "manoj",
+    "family": "Goppisetty",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/Manoj1028"
   },
   {
     "_id": 118,
