@@ -14,9 +14,15 @@ console.log('START routing')
 const router = express.Router()
 
 // Manage top-level request first
+
 router.get('/', (req, res, next) => {
   console.log('Request to /')
   res.sendFile(path.join(__dirname, '../public/index.html'))
+})
+
+router.get('/web.html', (req, res, next) => {
+  console.log('Request to /web.html')
+  res.sendFile(path.join(__dirname, '../public/web.html'))
 })
 
 // Defer path requests to a particular controller
