@@ -22,5 +22,13 @@ router.get('/', (req, res, next) => {
 // Defer path requests to a particular controller
 router.use('/dev', require('../controllers/developer.js'))
 
+router.use('/qa', require('../controllers/testers.js'))
+
+
+router.get('/qaView', (req, res, next) => {
+  console.log('Request to /')
+  res.sendFile(path.join(__dirname, '../public/index.html'))
+})
+
 console.log('END routing')
 module.exports = router
