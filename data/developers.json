@@ -439,7 +439,14 @@
   },
   {
     "_id": 320,
-    "email": "@nwmissouri.edu"
+    "email": "S534801@nwmissouri.edu",
+    "given": "Bala Gopi Krishna",
+    "family": "Sabbineni",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "zip": 522262,
+    "country": "INDIA",
+    "URL": "https://github.com/sabbinenibalagopikrishna"
   },
   {
     "_id": 321,
