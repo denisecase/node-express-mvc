@@ -81,7 +81,14 @@
   },
   {
     "_id": 106,
-    "email": "@nwmissouri.edu"
+    "email": "S534570@nwmissouri.edu",
+    "given": "Prajakt Uttamrao",
+    "family": "Khawase",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "zip": 442505,
+    "country": "INDIA",
+    "URL": "https://github.com/Prajakt-Khawase"
   },
   {
     "_id": 107,
