@@ -152,7 +152,14 @@
   },
   {
     "_id": 122,
-    "email": "@nwmissouri.edu"
+    "email": "@nwmissouri.edu",
+    "given":"Sunil",
+    "family":"Mundru",
+    "city":"Rjahmundry",
+    "state":"Andhra Pradesh",
+    "country":"India",
+    "zip":533286,
+    "URL": "https://github.com/sunilmundru"
   },
   {
     "_id": 123,
@@ -623,4 +630,5 @@
     "_id": 336,
     "email": "@nwmissouri.edu"
   }
+  
 ]
