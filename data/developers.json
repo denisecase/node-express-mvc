@@ -648,7 +648,15 @@
   },
   {
     "_id": 316,
-    "email": "@nwmissouri.edu"
+    "email": "s534637@nwmissouri.edu",
+    "given":"Midhun",
+    "family":"Kandakatla",
+    "city":"Maryville",
+    "state":"MO",
+    "zip":64468,
+    "country":"USA",
+    "URL":"https://github.com/Midhunkandakatla"
+
   },
   {
     "_id": 317,
