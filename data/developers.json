@@ -220,7 +220,14 @@
   },
   {
     "_id": 124,
-    "email": "@nwmissouri.edu"
+    "email": "S534596@nwmissouri.edu",
+    "given": "Subrahmanya Sai Bharadwaj",
+    "family": "Gandrakota",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": 500070,
+    "country": "INDIA",
+    "URL": "https://github.com/bharadwaj1995"
   },
   {
     "_id": 125,
