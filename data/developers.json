@@ -107,7 +107,14 @@
   },
   {
     "_id": 108,
-    "email": "@nwmissouri.edu"
+    "email": "S534624@nwmissouri.edu",
+    "given": "Harshavardhan Reddy",
+    "family": "Bollam",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/bollamharshavardhanreddy"
   },
   {
     "_id": 109,
@@ -693,7 +700,7 @@
   },
   {
     "_id": 322,
-    "email": "@nwmissouri.edu",
+    
     "email": "S534732@nwmissouri.edu",
     "given": "Chaitra",
     "family": "Vemula",
