@@ -605,7 +605,15 @@
   },
   {
     "_id": 309,
-    "email": "@nwmissouri.edu"
+    "email": "S534846@nwmissouri.edu",
+    "given": "Bhuvanesh",
+    "family": "Nakka",
+    "city": "Kavali",
+    "state": "Andhra Pradesh",
+    "zip": 524201,
+    "country": "INDIA",
+    "URL": "https://github.com/bhuvaneshnakka"
+    
   },
   {
     "_id": 310,
