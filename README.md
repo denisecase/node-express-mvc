@@ -1,4 +1,4 @@
-# node-express
+# node-express-mvc
 
 > Node.js and the Express web framework make it easy to build well-designed web apps using MVC
 
@@ -11,6 +11,10 @@
 
 - A browser (e.g., Chrome)
 - A text editor (e.g., VS Code, or Notepad++, or Chrome)
+
+## Continuous Integration with Travis Ci
+
+- [Get Started With Travis-CI](https://docs.travis-ci.com/user/tutorial/)
 
 ## Benefits
 
