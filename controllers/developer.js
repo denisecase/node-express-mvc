@@ -1,4 +1,4 @@
-/** 
+/**
 *  Developer controller
 *  Handles requests related to developer resources.
 *
@@ -7,7 +7,7 @@
 */
 const express = require('express')
 const api = express.Router()
-const Model = require('../models/developer.js')
+// const Model = require('../models/developer.js')
 const find = require('lodash.find')
 const notfoundstring = 'Could not find developer with id='
 
@@ -23,7 +23,7 @@ api.get('/findall', (req, res) => {
 // GET one JSON by ID
 api.get('/findone/:id', (req, res) => {
   res.setHeader('Content-Type', 'application/json')
-  const id = parseInt(req.params.id) 
+  const id = parseInt(req.params.id)
   const data = req.app.locals.developers.query
   const item = find(data, { _id: id })
   if (!item) { return res.end(notfoundstring + id) }

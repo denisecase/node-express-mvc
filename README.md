@@ -7,14 +7,21 @@
 - [Demo](https://denisecase.github.io/node-express-mvc/)
 - [Source](https://github.com/denisecase/node-express-mvc)
 
-## Requirements
+## Dev Tools
 
-- A browser (e.g., Chrome)
-- A text editor (e.g., VS Code, or Notepad++, or Chrome)
+- Chrome browser
+- Visual Studio Code
+- VS Code Extension: ESLint
 
 ## Continuous Integration with Travis Ci
 
 - [Get Started With Travis-CI](https://docs.travis-ci.com/user/tutorial/)
+
+## Code Linting with ESLint
+
+1. One-time setup: Install eslint-cli globally with `npm -g i eslint-cli`
+1. Once per repo: Install eslint locally with `npm i eslint -D`
+1. [Getting Started with ESLINT](https://eslint.org/docs/user-guide/getting-started)
 
 ## Benefits
 
