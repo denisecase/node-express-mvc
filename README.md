@@ -2,6 +2,8 @@
 
 > Node.js and the Express web framework make it easy to build well-designed web apps using MVC
 
+[![Build Status](https://travis-ci.org/denisecase/node-express-mvc.svg?branch=master)](https://travis-ci.org/denisecase/node-express-mvc)
+
 ## Links
 
 - [Demo](https://denisecase.github.io/node-express-mvc/)
@@ -25,17 +27,11 @@
 
 ## Benefits
 
-- Folder-based
-- Easy to write
 - Node.js non-blocking event loop supports many concurrent requests
-- Manages complexity, maintainability, and extensibility with Model-View-Controller pattern
+- Express adds convenient middleware and methods
+- Model-View-Controller pattern manages complexity, maintainability, extensibility
 - Each part is small, simple, and cohesive; pieces are loosely-coupled
-
-## Prerequisites
-
-- [node-server](https://github.com/denisecase/node-server)
-- [node-express-app](https://github.com/denisecase/node-express-app)
-- [node-express-chat](https://github.com/denisecase/node-express-chat)
+- ESLint enforces code style and standards
 
 ## Install Dependencies and Start App
 
@@ -65,19 +61,12 @@ Start app with nodemon: `nodemon app.js`.
 ## Resources
 
 - [Bootstrap Material Design CDN](https://mdbootstrap.com/md-bootstrap-cdn/)
-- [HTML Validator](https://validator.w3.org/)
 - [JavaScript Standard Style Validator](https://standardjs.com/demo.html)
+- [ESLint](https://eslint.org/)
+- [TravisCI](https://travis-ci.org/)
 
 ## See Also
 
-- [js-console](https://github.com/profcase/js-console)
-- [js-gui](https://github.com/profcase/js-gui)
-- [js-gui-vue](https://github.com/denisecase/js-gui-vue)
-- [js-gui-storage](https://github.com/profcase/js-gui-storage)
-- [node-server](https://github.com/denisecase/node-server)
-- [node-express-app](https://github.com/denisecase/node-express-app)
-- [node-express-chat](https://github.com/denisecase/node-express-chat)
-- [node-express-mvc](https://github.com/denisecase/node-express-mvc)
+- [More App Examples](https://profcase.github.io/web-apps-list/)
 
-Dr. Denise Case Copyright
-Rahul Reddy Dayam
+
