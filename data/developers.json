@@ -9,5 +9,16 @@
     "zip": 64468,
     "country": "USA",
     "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
+  },
+  {
+    "_id": 100,
+    "email": "michael@nwmissouri.edu",
+    "given": "Michael",
+    "family": "Case",
+    "city": "Rogers",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://www.nwmissouri.edu/csis/directory/rogers.htm"
   }
 ]
