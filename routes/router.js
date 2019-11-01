@@ -23,7 +23,7 @@ router.get('/index', (req, res, next) => {
   res.sendFile('index.html')
 })
 
-// Defer path requests to a particular controller
+// Route requests that start with '/dev' to a particular controller
 router.use('/dev', require('../controllers/developer.js'))
 
 console.log('END routing')
