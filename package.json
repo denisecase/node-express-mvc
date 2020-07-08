@@ -9,7 +9,8 @@
     "lodash": "latest",
     "lodash.find": "latest",
     "mongoose": "latest",
-    "nedb": "latest"
+    "nedb": "latest",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "eslint": "latest",
@@ -42,6 +43,9 @@
     "pre": "eslint .\\",
     "dev": "nodemon app.js",
     "start": "node app.js",
-    "test": "npm run pre"
-  }
+    "test": "npm run pre",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
