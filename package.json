@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Denise Case",
   "dependencies": {
-    "config": "latest",
+    "config": "3.3.2",
     "express": "latest",
     "lodash": "4.17.20",
     "lodash.find": "latest",
