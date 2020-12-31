@@ -4,13 +4,13 @@
   "version": "1.0.0",
   "author": "Denise Case",
   "dependencies": {
-    "config": "3.3.2",
+    "config": "latest",
     "express": "latest",
-    "lodash": "4.17.20",
+    "lodash": "latest",
     "lodash.find": "latest",
-    "mongoose": "5.11.7",
+    "mongoose": "latest",
     "nedb": "latest",
-    "snyk": "^1.425.4"
+    "snyk": "latest"
   },
   "devDependencies": {
     "eslint": "latest",
