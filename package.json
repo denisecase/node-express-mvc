@@ -8,7 +8,7 @@
     "express": "latest",
     "lodash": "latest",
     "lodash.find": "latest",
-    "mongoose": "latest",
+    "mongoose": "5.11.8",
     "nedb": "latest",
     "snyk": "latest"
   },
