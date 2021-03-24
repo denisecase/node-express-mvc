@@ -10,7 +10,7 @@
     "lodash.find": "latest",
     "mongoose": "latest",
     "nedb": "latest",
-    "snyk": "latest"
+    "snyk": "1.465.0"
   },
   "devDependencies": {
     "eslint": "latest",
