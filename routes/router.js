@@ -26,5 +26,11 @@ router.get('/index', (req, res, next) => {
 // Route requests that start with '/dev' to a particular controller
 router.use('/dev', require('../controllers/developer.js'))
 
+// Add a reference to the new instructor controller
+const instructorController = require('../controllers/instructor.js')
+
+// Use router.use to route requests that start with '/instructor' to the instructor controller
+router.use('/instructor', instructorController)
+
 console.log('END routing')
 module.exports = router

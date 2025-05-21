@@ -29,6 +29,12 @@ require('./utils/seeder.js')(app)
 const routing = require('./routes/router.js')
 app.use('/', routing)
 
+// Add a reference to the new instructor controller
+const instructorController = require('./controllers/instructor.js')
+
+// Use app.use to configure routing for the instructor controller
+app.use('/instructor', instructorController)
+
 app.listen(port, hostname, () => {
   console.log(`App running at http://${hostname}:${port}/ in ${environment}`)
   console.log('Hit CTRL-C CTRL-C to stop\n')
