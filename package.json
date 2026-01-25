@@ -6,7 +6,7 @@
   "dependencies": {
     "config": "3.3.12",
     "express": "latest",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "lodash.find": "latest",
     "mongoose": "8.9.5",
     "nedb": "latest",
